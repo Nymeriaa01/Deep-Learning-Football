@@ -7,10 +7,6 @@
 
 **Réda Ouzzane** and **Florian Magnan** (me) — built as a pair.
 
-Every commit carries Réda's name: the project was developed on **Google Colab** and then
-uploaded in a single batch on 21 August 2025. The git history documents nobody's contribution
-here.
-
 ## What I actually did
 
 **Implementing and benchmarking the deep learning models.** The **web scraping was done by Réda
@@ -36,3 +32,12 @@ architectures and techniques on a real, noisy dataset.
 
 The upstream repository carries **no explicit license**: the code remains the property of its
 authors, all rights reserved. This public fork adds nothing but this note.
+
+---
+
+### Why the git history doesn't reflect the above
+
+Every commit in this repository carries Réda's name because the project was developed on
+**Google Colab** and uploaded in a single batch on 21 August 2025, well after the work was
+done. The git history therefore documents nobody's contribution here, and should not be read as
+a record of who did what.
